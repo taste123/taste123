@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ray 👋
 # 💫 About Me:
 - 📚 I’m currently studying on [Hasanuddin University](https://www.unhas.ac.id)
 - 🌱 I’m currently learning **React.js**
